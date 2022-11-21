@@ -14,9 +14,9 @@
 
 ## **Guide Agenda**
 
-[x] [*How To Start*](#how-to-start)
+- [x] [*How To Start*](#how-to-start)
 
-[x] [*Week #1 (data type and if else)*](#week-1-data-type-and-if-else)
+- [x] [*Week #1 (data type and if else)*](#week-1-data-type-and-if-else)
 
 
 </br>
