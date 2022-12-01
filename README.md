@@ -25,13 +25,17 @@
 
 ## **How To Start**
 
+</br>
+
+
 ### **What Is Competitive Programming ?**
 
 </br>
 
 - [*Video : Programming Competitions - What and Why*](https://www.youtube.com/watch?v=YcRMNzLTIfg&list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&index=2)
+- [*How to use Codeforces*](https://www.youtube.com/watch?v=uo83F-3qD08&list=PLzNwhgFIbucLD0fhttXDutkZGo-D8zWJX&index=4)
 
-- [*Tutorial : Codeforces*](https://www.youtube.com/watch?v=7y6jB16zVl8&list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&index=5)
+- [*For more details in Codeforces*](https://www.youtube.com/watch?v=7y6jB16zVl8&list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&index=5)
 
 - [*Video : ICPC, ACPC, ECPC Competitions (لو عايز تعرف اكتر عن المسابقه )*](https://www.youtube.com/watch?v=TngPtAFRcbE&list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&index=3)
 
@@ -49,26 +53,21 @@
 
 </br>
 
-1. [*Tutorial : Introduction To Programming*](https://www.youtube.com/watch?v=Fr6wJ5_Hok0&list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&index=2&t=0s)
+- [*Week 1 Video*](https://www.youtube.com/watch?v=5xyYKGBZl0E&list=PLzNwhgFIbucLD0fhttXDutkZGo-D8zWJX&index=4)
 
-2. [*Tutorial : Variables, Data types, Cout, Cin*](https://www.youtube.com/watch?v=H7pUHZrgscY&list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&index=2)
-
-3. [*Tutorial : Arithmetic Operators, Expressions*](https://www.youtube.com/watch?v=-ZRhEfMx7RU&list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&index=4)
-
-4. [*Tutorial : If Statement*](https://www.youtube.com/watch?v=02ZmSVsoAV4&list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&index=5&t=0s)
-
-5. [*Tutorial : Switch Statement*](https://www.youtube.com/watch?v=waw-DeBp_H0&list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&index=6&t=0s)
 
 </br>
 
 ### Week #1 sheet
 
-- [*sheet link*]()
+- [*sheet link*](https://codeforces.com/group/Un7Zeu9ztK/contest/411691)
 
-- [*sheet upsolve*]()
+<!-- - [*sheet upsolve*]() -->
 
 </br>
-
+<!-- 
 ### Tips & Tricks session
 
-- [*session link*]()
+- [*session link*]() -->
+
+
