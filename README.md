@@ -53,7 +53,7 @@
 
 </br>
 
-- [*Week 1 Video*](https://www.youtube.com/watch?v=5xyYKGBZl0E&list=PLzNwhgFIbucLD0fhttXDutkZGo-D8zWJX&index=4)
+- [*Week 1 Video*](https://www.youtube.com/watch?v=5xyYKGBZl0E)
 
 
 </br>
