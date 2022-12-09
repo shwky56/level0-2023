@@ -121,8 +121,7 @@
 
 - [*Y: Two intervals*](https://drive.google.com/file/d/1BQaqknww351QSpY58Gb5HmazFkwZiaik/view?usp=sharing)
 
-- [*Z : The last 2 digits*](https://drive.google.com/file/d/1CVPaWKCO6kZ6fWufFGUf5hOeo4EV7FlX/view?usp=sharing))
-
+- [*Z : The last 2 digits*](https://drive.google.com/file/d/1CVPaWKCO6kZ6fWufFGUf5hOeo4EV7FlX/view?usp=sharing)
 
 
 
