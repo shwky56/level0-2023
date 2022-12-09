@@ -58,16 +58,20 @@
 
 </br>
 
+### Tips & Tricks session
+
+</br>
+
+- [*Video link*](https://drive.google.com/file/d/1dB71BRqalJHGQn102348i0XzABJVnas1/view?usp=sharing)
+
 ### Week #1 sheet
 
 - [*sheet link*](https://codeforces.com/group/Un7Zeu9ztK/contest/411691)
 
-<!-- - [*sheet upsolve*]() -->
-
-</br>
-<!-- 
-### Tips & Tricks session
-
-- [*session link*]() -->
 
 
+### **sheet upsolve**
+
+- [*A: Say Hello With C++*](https://drive.google.com/file/d/1ot_IoT5aAKPQEH9J6-xT9NFPcR_-TbqT/view?usp=sharing)
+
+- [*B: Basic Data Types*](https://drive.google.com/file/d/12MtEMqPeVmXjqfSRy7NXsdTRBXgFYVBs/view?usp=sharing)
